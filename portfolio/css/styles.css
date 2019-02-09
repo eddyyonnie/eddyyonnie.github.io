@@ -7,3 +7,8 @@ img{
 h1{
   margin-left:14em;
 }
+body{
+  background-image:url("https://thumbs.dreamstime.com/z/texture-drawing-background-silk-fabric-pink-polka-very-light-silky-soft-satin-fabric-charmeuse-has-nice-arm-120858250.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
