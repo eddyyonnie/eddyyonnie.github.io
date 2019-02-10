@@ -3,9 +3,8 @@
 }
 img{
   border-radius:2.6em;
-  height:35em;
+  height:15em;
   float:left;
-  clear:left;
 }
 h1{
   margin-left:14em;
@@ -17,6 +16,7 @@ body{
 }
 p ,h1 ,h2 , li{
   font-size:27px;
+  float:left;
 }
 h2{
   color:purple;
