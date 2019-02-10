@@ -3,6 +3,9 @@
 }
 img{
   border-radius:2.6em;
+  height:35em;
+  float:left;
+  clear:left;
 }
 h1{
   margin-left:14em;
