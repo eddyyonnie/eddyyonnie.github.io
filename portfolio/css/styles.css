@@ -17,6 +17,7 @@ body{
 p ,h1 ,h2 , li{
   font-size:27px;
   float:left;
+  clear:left;
 }
 h2{
   color:purple;
