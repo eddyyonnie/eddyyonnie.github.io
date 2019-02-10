@@ -8,7 +8,10 @@ h1{
   margin-left:14em;
 }
 body{
-  background-image:url("https://thumbs.dreamstime.com/z/texture-drawing-background-silk-fabric-pink-polka-very-light-silky-soft-satin-fabric-charmeuse-has-nice-arm-120858250.jpg");
+  background-image:url("https://cache.desktopnexus.com/thumbseg/2459/2459361-bigthumbnail.jpg");
   background-size: cover;
   background-repeat: no-repeat;
+}
+p ,h1 ,h2 , li{
+  font-size:20px;
 }
