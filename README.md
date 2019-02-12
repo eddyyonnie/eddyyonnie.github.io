@@ -15,5 +15,5 @@
 
 ### Lisence
 
-[MIT LISENCE]( lisence.html )
+[MIT LISENCE](LISENCE)
 
