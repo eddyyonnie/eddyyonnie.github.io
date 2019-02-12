@@ -15,5 +15,5 @@
 
 ### Lisence
 
-[MIT LISENCE](LISENCE)
+* [MIT LISENCE](LISENCE)
 
