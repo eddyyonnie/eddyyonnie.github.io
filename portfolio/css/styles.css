@@ -4,6 +4,7 @@
     color:black;
   }
 }
+
 #jonjo{
   margin-left: 10em;
 }
@@ -27,7 +28,7 @@ p ,h1 ,h2 , li{
   clear:left;
 }
 h2{
-  color:black;
+  color:blue;
   text-decoration:underline;
 }
 li{
